@@ -15,9 +15,9 @@ npm install -g typescript@next
 
 ## Tips / command - init
 Compiler Options in TypeScript
-* **comment  :** // y / * * /
-* ** tsc [file-app].ts  :** "tsc" (typescript) - create JS
-* **tsc -w  [file-app].ts :** "-w"  Run the compiler in watch mode
+* **comment  :**           // y / * * /
+* **tsc [file-app].ts  :**       "tsc" (typescript) - create JS
+* **tsc -w  [file-app].ts :**     "-w"  Run the compiler in watch mode
 
 
 =======
