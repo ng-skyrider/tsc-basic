@@ -1,1 +1,0 @@
-var numero = 10;
